@@ -1,0 +1,35 @@
+/*body { background-color : #FFFFFF; font-family: 'Fira Sans', Trebuchet MS, Helvetica; }*/
+body { background-color : #FFFFFF; font-family: Helvetica; padding-left: 20px; padding-right: 20px; padding-bottom: 250px; padding-top: 40px; font-size:150%}
+
+img {
+    max-width: 150%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+/* usage <div class="boxed"> */
+.boxed {
+ border-width:5px;
+ margin: 30px auto;
+ padding-left: 30px;
+ padding-right: 30px;
+ border-style:solid;
+ border-color:#005EA7;
+}
+
+/* usage <span class="term"> */
+.term {
+ color:seagreen;
+}
+
+/*
+ border-spacing: 30px 30px;
+
+a    { text-decoration:none; border-bottom: 1px dotted #000066; }
+a:link { color:#000066; }
+a:visited { color:#000066; }
+a:hover { color:#000066; border-bottom: 1px dotted #0000aa; }
+
+.paper_t {margin-left: 1em;}
+.paper_j {margin-left: 2em; font-size: 88%;}
+*/
