@@ -24,6 +24,11 @@ img {
  color:seagreen;
 }
 
+/* usage <span class="term"> */
+.warn {
+ color:darkgoldenrod;
+}
+
 /*
  border-spacing: 30px 30px;
 
